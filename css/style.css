@@ -21,9 +21,17 @@ h1 {
     font-size: 2.5rem;
 }
 
-p {
-    font-size: large;
-    margin: 50px auto;
+.contents span {
+    color: #60C0ED;
+}
+
+img {
+    float: left;
+    width: 110px;
+}
+
+p, h3 {
+    margin-bottom: 5px;
 }
 
 /* Body */
@@ -34,6 +42,34 @@ p {
     text-align: center;
 }
 
-.team[
-    
-]
+.paragraph {
+    font-size: large;
+    margin: -10px;
+    margin-bottom: 50px;
+}
+
+
+.cards {
+    float: left;
+    background-color: #000;
+    color: #FFFFFF;
+    width: calc(95% / 3);
+    height: 112px;
+    margin: 10px;
+}
+
+.contents {
+    float: left;
+    text-align: left;
+    padding-top: 15px;
+    margin-left: 10px;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+
+
