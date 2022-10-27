@@ -6,8 +6,34 @@
     box-sizing: border-box;
 }
 
+/* Generals */
+
 body {
     background-color: #FFFFFF;
     color: black;
     font-family: 'Fredoka', sans-serif;
 }
+
+h1 {
+    color: #E53170;
+    font-weight: 900;
+    margin: 50px auto;
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: large;
+    margin: 50px auto;
+}
+
+/* Body */
+
+.container {
+    max-width: 1200px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.team[
+    
+]
